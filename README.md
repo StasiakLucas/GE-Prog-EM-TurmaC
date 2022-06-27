@@ -1,2 +1,7 @@
 # GE-Prog-EM-TurmaC
-É a paste de estudos do GE da Turma C de programação Ensino Médio.
+
+pasta destinada ao uso doa alunos do grupo de estudos Formadores em Ação do curso de Programação do ensino médio;
+
+# Participantes
+Alunos da turma C
+
