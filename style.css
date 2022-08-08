@@ -1,5 +1,5 @@
 body {
-  background-color: #32bd32
+  background-color: #ffffff
 }
 
 h1 {
@@ -15,4 +15,10 @@ h2 {
 p {
   text-align: center;
   color: #5F52EB
+}
+
+#camisetas {
+  height: 250px;
+  border: 2px dotted blue;
+  padding: 15px;
 }
