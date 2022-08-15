@@ -2,14 +2,25 @@ body {
   background-color: #ffffff
 }
 
-h1 {
+.titulo-principal {
   text-align: center;
   color: #23189E
 }
 
 h2 {
-  text-align: center;
   color: #23189E
+}
+
+.divisao-principal {
+  background-color: black;
+}
+
+.historia {
+  background-color: #EB766A;
+}
+
+.panosprato {
+  background-color: yellow;
 }
 
 p {
@@ -21,4 +32,12 @@ p {
   height: 250px;
   border: 2px dotted blue;
   padding: 15px;
+}
+
+.materiais {
+  background-color: grey;
+}
+
+.itens {
+  color: #5F52EB;
 }
